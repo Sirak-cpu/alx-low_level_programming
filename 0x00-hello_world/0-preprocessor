@@ -1,25 +1,2 @@
-!#/bin/bash
-gcc $CFILE -E -oc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#!/bin/bash
+gcc $CFILE -E -o c
